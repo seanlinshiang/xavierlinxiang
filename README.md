@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xavierlinxiang
-- 👀 I’m interested in Machine Learning, and Front-end Development.
-- 🌱 I’m currently learning HTML/CSS, Javascript and React.
-- 💞️ I’m looking to collaborate on Front-end Project.
+- 👀 I’m interested in Machine learning, and Computer vision.
+- 🌱 I’m currently learning Opencv, Pytorch and Machine learning.
+- 💞️ I’m looking to collaborate on Machine learning Project.
 - 📫 How to reach me: 
 Gmail: xavierlinxiang@gmail.com
 <!---
